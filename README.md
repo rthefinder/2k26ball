@@ -1,9 +1,6 @@
 # 2k26ball
 
-<p align="center">
-  <img src="2K26ball.png" alt="2k26ball logo" width="200"/>
-</p>
-
+<img width="1024" height="1024" alt="2K26ball" src="https://github.com/user-attachments/assets/55ebb1af-2acb-4117-afe3-f6726d065125" />
 
 **Creator fees fuel an always-on 2026 flywheel: buybacks + burns.**
 
