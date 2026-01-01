@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#050816" />
+  <g transform="translate(40,20)">
+    <circle cx="80" cy="80" r="60" fill="url(#g)" opacity="0.95" />
+    <text x="80" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" fill="#fff" font-weight="700">2026</text>
+  </g>
+  <g transform="translate(200,30)">
+    <text x="0" y="40" font-family="Inter, Arial, sans-serif" font-size="48" fill="#fff" font-weight="800">2k26</text>
+    <text x="0" y="96" font-family="Inter, Arial, sans-serif" font-size="20" fill="#9ca3af">Creator fees fuel an always-on flywheel</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#050816" />
+  <g transform="translate(40,20)">
+    <circle cx="80" cy="80" r="60" fill="url(#g)" opacity="0.95" />
+    <text x="80" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" fill="#fff" font-weight="700">2026</text>
+  </g>
+  <g transform="translate(200,30)">
+    <text x="0" y="40" font-family="Inter, Arial, sans-serif" font-size="48" fill="#fff" font-weight="800">2k26</text>
+    <text x="0" y="96" font-family="Inter, Arial, sans-serif" font-size="20" fill="#9ca3af">Creator fees fuel an always-on flywheel</text>
+  </g>
+</svg>

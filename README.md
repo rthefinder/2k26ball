@@ -1,5 +1,7 @@
 # 2k26ball
 
+![2k26ball logo](app/public/logo.svg)
+
 **Creator fees fuel an always-on 2026 flywheel: buybacks + burns.**
 
 2k26ball is a Snowball-style token for 2026 that transforms creator fees into perpetual value generation. An on-chain automated flywheel splits collected fees into buybacks and burns, with optional liquidity additions—all executed transparently and governed by BPS (basis points) configuration.
