@@ -1,6 +1,9 @@
 # 2k26ball
 
-![2k26ball logo](app/public/logo.svg)
+<p align="center">
+  <img src="2K26ball.png" alt="2k26ball logo" width="200"/>
+</p>
+
 
 **Creator fees fuel an always-on 2026 flywheel: buybacks + burns.**
 
