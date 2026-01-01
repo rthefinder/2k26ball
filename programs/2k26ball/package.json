@@ -1,0 +1,14 @@
+{
+  "name": "2k26ball-program",
+  "version": "0.1.0",
+  "description": "Solana Anchor program for 2k26ball flywheel",
+  "scripts": {
+    "build": "anchor build",
+    "test": "anchor test",
+    "clean": "anchor clean"
+  },
+  "devDependencies": {
+    "@anchor-lang/anchor": "^0.29.0",
+    "@solana/web3.js": "^1.87.0"
+  }
+}

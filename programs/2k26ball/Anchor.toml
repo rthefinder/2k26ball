@@ -1,0 +1,23 @@
+[build]
+args = []
+shell = "bash"
+
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+two_k_26_ball = "2k26BoL1eUfFhqFXRdVH5p1FCd9mFhfhyMZBZyH3A7TJ"
+
+[programs.devnet]
+two_k_26_ball = "2k26BoL1eUfFhqFXRdVH5p1FCd9mFhfhyMZBZyH3A7TJ"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha --require ts-node/register tests/**/*.test.ts"

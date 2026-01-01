@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-slate-950 text-white font-sans;
+}
+
+a {
+  @apply text-blue-400 hover:text-blue-300 underline;
+}
+
+button {
+  @apply px-4 py-2 rounded font-medium transition-colors;
+}
+
+.btn-primary {
+  @apply bg-blue-600 hover:bg-blue-700 text-white disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply bg-slate-700 hover:bg-slate-600 text-white disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.card {
+  @apply bg-slate-900 border border-slate-800 rounded-lg p-6 shadow-lg;
+}
+
+.monospace {
+  @apply font-mono text-sm;
+}
