@@ -1,6 +1,7 @@
 # 2k26ball
 
-<img width="1024" height="1024" alt="2K26ball" src="https://github.com/user-attachments/assets/55ebb1af-2acb-4117-afe3-f6726d065125" />
+![Gemini_Generated_Image_hkai8zhkai8zhkai (1)](https://github.com/user-attachments/assets/cb30a9a4-6aa1-4749-ad2f-584f1f6725a5)
+
 
 **Creator fees fuel an always-on 2026 flywheel: buybacks + burns.**
 
